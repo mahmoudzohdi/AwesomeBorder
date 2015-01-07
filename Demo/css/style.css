@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+    height: 200px;
+    background-color: #E84C4C;
+    margin-bottom: 100px;
+}
+
+.green{
+    background-color: #34ec70   ;
+}
+.blue{
+    background-color: #5155ff;
+}
+.purple{
+    background-color: #af48ff;
+}
+h2{
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 180px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.ab-parent{
+    background-color: transparent !important;
+	position: absolute !important;
+	left:-10% !important;
+	z-index: -5 !important;
+    margin: 0 !important;
+}
+span.ab-symbol{
+    float: left !important;
+}
+div.ab-parent span{
+    display: inline-block !important;
+}
+div.ab-parent span.ab-symbol.ab-circle-border{
+    border-radius: 50% !important;
+}
