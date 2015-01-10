@@ -65,7 +65,7 @@ so you shoulden't set  "border size value" = "border spacing value"
 
 supported on all browsers and IE8,
 
-``` NOTE ```  : Preferably download "CSS3 PIE" and put file "PIE.htc" into "js" folder to support "border-radius" in IE8 
+``` NOTE ```  :  download ``` CSS3 PIE ``` and put file  ``` PIE.htc ```  into ``` js ```  folder to support ``` border-radius ``` in IE8 
 
 you can download it from [HERE](http://css3pie.com/).
 
