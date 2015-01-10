@@ -42,7 +42,7 @@ you have some Attributes to set your custom values
 | Attribute Name                | Attribute Default Value | Attribute options          |
 | ----------------------------- | ----------------------- | -------------------------- |
 | data-border-position          | top                     | you have 2 options to set you border position ``` top , bottom ```          |
-| data-border-size              | 25                      | just put your size as a number ``` NOTE ``` this attribute mean symbol size  |
+| data-border-size              | 30                      | just put your size as a number ``` NOTE ``` this attribute mean symbol size  |
 | data-border-color             | #E84C4C         | just put your color by ```Color name``` , ```color Hex``` , ```rgb``` , ```rgba```  .... As you like          |
 
 --------------------------
