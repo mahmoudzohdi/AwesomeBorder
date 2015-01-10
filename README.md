@@ -1,6 +1,6 @@
 #AwesomeBorder
 
-The Simple Way To Make an Awesome Border in your Div
+The Simple Way To Make an Awesome Border in your Div Without Any Images
 
 ##Usage:
 
