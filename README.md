@@ -32,7 +32,7 @@ of course ...
 
 #####you have 2 choices :- 
 
-1- just insert your classes and it will work by defult values 
+1- just insert your classes and it will work by default values 
 
 2- set you custom values 
 
