@@ -79,7 +79,7 @@ you can download it from [HERE](http://jquery.com/download/).
 
 #### License
 
-Copyright (c) 2015 Mahmoud Alaa
+Copyright (c) 2016 Mahmoud Alaa
 
 and I will send a request to get the [MIT license](http://opensource.org/licenses/MIT).
 
