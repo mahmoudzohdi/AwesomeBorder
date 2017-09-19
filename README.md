@@ -1,12 +1,12 @@
-#AwesomeBorder
+# AwesomeBorder
 
 The Simple Way To Make an Awesome Border in your Div Without Any Images
 
 ![alt tag](http://imagizer.imageshack.us/a/img537/2658/zLSvhV.png)
-##Usage:
+## Usage:
 
 
-###[1] Enable Your Awesome Border :-
+### [1] Enable Your Awesome Border :-
 
 to enable Awesome Border Plugin you need to insert 2 Classes [AwesomeBorder , (yourSymbol)]
 #### Example :
@@ -15,7 +15,7 @@ to enable Awesome Border Plugin you need to insert 2 Classes [AwesomeBorder , (y
 ```
 
 
-###[2] What Symboles I have ??
+### [2] What Symboles I have ??
 
 you have 3 Symbols you can Enable one of them by their classes :- 
 
@@ -26,17 +26,17 @@ you have 3 Symbols you can Enable one of them by their classes :-
 | Oblong      | ab-oblong    |
 
 
-###[3] Can I Set My border size , color .. etc ?? 
+### [3] Can I Set My border size , color .. etc ?? 
 
 of course ... 
 
-#####you have 2 choices :- 
+##### you have 2 choices :- 
 
 1- just insert your classes and it will work by default values 
 
 2- set you custom values 
 
-###[4] How Can I set my custom values ?
+### [4] How Can I set my custom values ?
 
 you have some Attributes to set your custom values 
 
@@ -48,7 +48,7 @@ you have some Attributes to set your custom values
 
 --------------------------
 
-#####there is two Attributes specifically to oblong symbol ONLY 
+##### there is two Attributes specifically to oblong symbol ONLY 
 
 | Attribute Name                | Attribute Default Value | Attribute options          |
 | ----------------------------- | ----------------------- | -------------------------- |
@@ -62,7 +62,7 @@ symbol size = data-border-size - data-border-spacing
 
 so you shoulden't set  "border size value" = "border spacing value"
 
-###[5] Support :
+### [5] Support :
 
 supported on all browsers and IE8,
 
@@ -78,14 +78,4 @@ jQuery Library
 you can download it from [HERE](http://jquery.com/download/).
 
 #### License
-
-Copyright (c) 2016 Mahmoud Alaa
-
-and I will send a request to get the [MIT license](http://opensource.org/licenses/MIT).
-
-so , you can considered the Licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-#####It's For Free ^_^
-
-
-Thanks  :) 
+[MIT license](http://opensource.org/licenses/MIT)
