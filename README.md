@@ -2,7 +2,6 @@
 
 The Simple Way To Make an Awesome Border in your Div Without Any Images
 
-![alt tag](http://imagizer.imageshack.us/a/img537/2658/zLSvhV.png)
 ## Usage:
 
 
